@@ -21,7 +21,7 @@ and this paper has been accepted by WSDM 2021.
 
 `spot_pipe.py`: 
 * SPOT function is modified to be a part of FluxEV for streaming detection;
-* MOM(Method of Moments) is added as one of parameter estimation method;
+* MOM(Method of Moments) is added as one of parameter estimation methods;
 * For the original code, please refer to [SPOT (Streaming Peaks-Over-Threshold)](https://github.com/Amossys-team/SPOT)
 
 `eval_methods.py`: 
