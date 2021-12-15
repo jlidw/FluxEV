@@ -318,7 +318,7 @@ if __name__ == "__main__":
                         help="data length for training (initialize SPOT), "
                              "if None(default), the program will set it as the half of the data length")
 
-    parser.add_argument('--ret_file', type=str, default='{}-s{}-p{}-d{}-q{}-new12.txt')
+    parser.add_argument('--ret_file', type=str, default='{}-s{}-p{}-d{}-q{}.txt')
 
     Flags = parser.parse_args()
     if Flags.dataset == "KPI":
