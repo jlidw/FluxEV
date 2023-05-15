@@ -1,7 +1,8 @@
 # FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection
 The code is for our paper ["FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection"](https://dl.acm.org/doi/10.1145/3437963.3441823) 
 and this paper has been accepted by WSDM 2021.
-`Why name it FluxEV: "Flux" means the fluctuation, "EV" denotes the **E**xtreme **V**alue.`
+
+**FluxEV**: "Flux" means the Fluctuation, "EV" denotes the **E**xtreme **V**alue.
 
 ## Requirements
 * numpy
