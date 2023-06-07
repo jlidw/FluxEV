@@ -2,7 +2,9 @@
 The code is for our paper ["FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection"](https://dl.acm.org/doi/10.1145/3437963.3441823) 
 and this paper has been accepted by WSDM 2021.
 
-FluxEV: "Flux" means the Fluctuation, "EV" denotes the Extreme Value.
+😉 About Name: "Flux" means the Fluctuation, "EV" denotes the Extreme Value.     
+
+💫 Good News: FluxEV has been integrated into [**OATS**](https://github.com/georgian-io/pyoats), a convenient Python package providing a modular approach to time series anomaly detection. Thanks for their awesome work!
 
 ## Requirements
 * numpy
