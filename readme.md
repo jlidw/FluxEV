@@ -17,8 +17,9 @@ and this paper has been accepted by WSDM 2021.
 
 ## Datasets
 1. KPI. 
-[Link 1]<http://iops.ai/dataset_detail/?id=10> (⚠️ Seems like the official website is down!)    
-[Link 2]<https://github.com/NetManAIOps/KPI-Anomaly-Detection/tree/master/Finals_dataset>
+[Competition Website Link](http://iops.ai/dataset_detail/?id=10) (⚠️ Seems like the official competition website is down!)        
+
+[Tsinghua Netman GitHub Link](https://github.com/NetManAIOps/KPI-Anomaly-Detection/tree/master/Finals_dataset)
 
 2. Yahoo.
 <https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70>
