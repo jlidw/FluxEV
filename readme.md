@@ -16,8 +16,12 @@ and this paper has been accepted by WSDM 2021.
 * more-itertools (plot)
 
 ## Datasets
-1. KPI. <http://iops.ai/dataset_detail/?id=10>
-2. Yahoo. <https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70>
+1. KPI. 
+[Link 1]<http://iops.ai/dataset_detail/?id=10> (⚠️ Seems like the official website is down!)    
+[Link 2]<https://github.com/NetManAIOps/KPI-Anomaly-Detection/tree/master/Finals_dataset>
+
+2. Yahoo.
+<https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70>
 
 ## Instructions
 `preprocessing.py`: 
