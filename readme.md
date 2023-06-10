@@ -4,7 +4,7 @@ and this paper has been accepted by WSDM 2021.
 
 😉 About Name: "Flux" means the Fluctuation, "EV" denotes the Extreme Value.     
 
-💫 Good News: FluxEV has been integrated into [**OATS**](https://github.com/georgian-io/pyoats), a convenient Python package providing a modular approach to time series anomaly detection. Thanks for their awesome work!
+💫 Good News: FluxEV has been integrated into [**OATS**](https://github.com/georgian-io/pyoats), a convenient Python package providing various approaches to time series anomaly detection. Thanks for their awesome work!
 
 ## Requirements
 * numpy
